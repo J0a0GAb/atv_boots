@@ -1,0 +1,22 @@
+.opacidade {
+    background-color: black;
+    opacity: 0.7;
+    height: 300px;
+    width: 700px;
+    position: absolute;
+    z-index: 2;
+}
+
+.carousel-caption h1 {
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.7px;
+}
+
+.carousel-caption p {
+    color: rgb(219, 214, 214);
+    text-shadow: 1px 1px 1px black;
+}
+
+.menu-cor, .container-fluid {
+    background-color: #3e6e9f;
+}
